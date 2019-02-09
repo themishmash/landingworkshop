@@ -1,0 +1,90 @@
+body {
+	background-color: #e8d3fe;
+	color: black;
+	font-family: Ubuntu;
+}
+
+h1 {
+	font-size: 30px;
+	font-family: Abel;
+	color: black;
+	letter-spacing: 2px;
+}
+
+h2 {
+	font-size: 20px;
+	font-family: Abel;
+	color: black;
+	letter-spacing: 2px;
+}
+
+h3 {
+	font-size: 20px;
+	font-family: Abel;
+	color: black;
+	letter-spacing; 2px
+}
+
+p {
+	font-size: 15px;
+	font-family: Ubuntu;
+	letter-spacing: 2px;
+	margin: 0;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+}
+
+li {
+	list-style: none;
+}
+
+
+.intro {
+	text-align: center;
+	background: #deecff;
+	padding: 40px;
+	margin: 30px;
+
+}
+
+#me {
+	border-radius: 100px;
+}
+
+.places {
+	text-align: center;
+	background: #deecff;
+	padding: 30px;
+	margin: 30px;
+}
+#itinerary {
+	
+	display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.plans {
+	text-align: center;
+	background: #deecff;
+	padding: 30px;
+	margin: 30px;
+}
+
+
+.footer { 
+	text-align: center;
+}
+
+.icons {
+	text-align: center;
+}
